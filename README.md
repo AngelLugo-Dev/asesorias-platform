@@ -24,3 +24,8 @@ asesorias-platform/
 ```bash
 git clone https://github.com/AngelLugo-Dev/asesorias-platform.git
 ```
+## 👨‍👩‍👦 Autores
+
+- **Angel Lugo** – [@AngelLugo-Dev](https://github.com/AngelLugo-Dev)  
+- **Alef David Esparza Díaz** – [@alefesparzadev](https://github.com/alefesparzadev)
+
