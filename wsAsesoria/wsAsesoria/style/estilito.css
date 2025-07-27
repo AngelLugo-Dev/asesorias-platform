@@ -1,0 +1,7 @@
+﻿body {
+    display: flex
+}
+.col-6{
+    flex-direction: center; 
+}
+
